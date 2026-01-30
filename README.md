@@ -2,7 +2,7 @@
 ------
 >> 👤 Author
 
-**Arash (NIGHTFURY0X01)**
+**NIGHTFURY0X01 (Arash)**
 
 Aspiring Red Team Operator | Offensive Security & CTF Player
 -----
